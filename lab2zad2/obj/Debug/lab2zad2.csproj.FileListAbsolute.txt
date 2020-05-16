@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\bin\Debug\lab2zad2.exe.config
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\bin\Debug\lab2zad2.exe
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\bin\Debug\lab2zad2.pdb
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.exe
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.pdb
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.csprojAssemblyReference.cache
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.csproj.CoreCompileInputs.cache
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.exe
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\obj\Debug\lab2zad2.pdb
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\bin\Debug\lab2zad2.exe.config
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\bin\Debug\lab2zad2.exe
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab2zad2\bin\Debug\lab2zad2.pdb

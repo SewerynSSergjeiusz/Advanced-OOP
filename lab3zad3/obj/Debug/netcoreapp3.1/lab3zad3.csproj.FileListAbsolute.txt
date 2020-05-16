@@ -1,0 +1,13 @@
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\bin\Debug\netcoreapp3.1\lab3zad3.exe
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\bin\Debug\netcoreapp3.1\lab3zad3.deps.json
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\bin\Debug\netcoreapp3.1\lab3zad3.runtimeconfig.json
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\bin\Debug\netcoreapp3.1\lab3zad3.runtimeconfig.dev.json
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\bin\Debug\netcoreapp3.1\lab3zad3.dll
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\bin\Debug\netcoreapp3.1\lab3zad3.pdb
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.csprojAssemblyReference.cache
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.csproj.CoreCompileInputs.cache
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.AssemblyInfoInputs.cache
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.AssemblyInfo.cs
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.dll
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.pdb
+C:\Users\SEW-IWO\source\repos\Zaawansowane programowanie obiektowe\lab3zad3\obj\Debug\netcoreapp3.1\lab3zad3.genruntimeconfig.cache

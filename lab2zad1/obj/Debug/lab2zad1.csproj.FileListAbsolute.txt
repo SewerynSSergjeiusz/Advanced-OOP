@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad1\obj\Debug\lab2zad1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad1\bin\Debug\lab2zad1.exe.config
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad1\bin\Debug\lab2zad1.exe
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad1\bin\Debug\lab2zad1.pdb
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad1\obj\Debug\lab2zad1.exe
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab2zad1\obj\Debug\lab2zad1.pdb

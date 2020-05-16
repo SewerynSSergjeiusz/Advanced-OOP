@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\obj\Debug\netcoreapp3.1\lab1zad1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\obj\Debug\netcoreapp3.1\lab1zad1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\obj\Debug\netcoreapp3.1\lab1zad1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\bin\Debug\netcoreapp3.1\lab1zad1.exe
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\bin\Debug\netcoreapp3.1\lab1zad1.deps.json
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\bin\Debug\netcoreapp3.1\lab1zad1.runtimeconfig.json
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\bin\Debug\netcoreapp3.1\lab1zad1.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\bin\Debug\netcoreapp3.1\lab1zad1.dll
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\bin\Debug\netcoreapp3.1\lab1zad1.pdb
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\obj\Debug\netcoreapp3.1\lab1zad1.dll
+C:\Users\lenovo\source\repos\Zaawansowane programowanie obiektowe\lab1zad1\obj\Debug\netcoreapp3.1\lab1zad1.pdb
